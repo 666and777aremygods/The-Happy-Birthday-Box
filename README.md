@@ -40,7 +40,7 @@ License keys are keys that allow you to use the email spoofer, SMS spoofer and v
 - Litecoin
 - Ethereum
 
-**Contact**: https://t.me/accessibilityoptions
+**Contact**: https://t.me/thehappybirthdaybox
 
 ## Buy source code ![Python_Windows_source_code_icon_2016](https://github.com/user-attachments/assets/698f05ee-8bb0-4e3f-b9b2-c1fd84900a28)
 
@@ -52,7 +52,7 @@ License keys are keys that allow you to use the email spoofer, SMS spoofer and v
 - Litecoin
 - Ethereum
 
-**Contact:** https://t.me/accessibilityoptions
+**Contact:** https://t.me/thehappybirthdaybox
 
 # DISCLAIMER 📜
 
