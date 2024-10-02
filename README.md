@@ -4,21 +4,21 @@ The Happy Birthday Box is an offensive social engineering multi-tool for Windows
 
 ![gif](https://github.com/user-attachments/assets/8337cee8-66fb-458f-b719-a13287412cd2)
 
-## Email Spoofer features 📧
+## Email spoofer features 📧
 
 - Custom name and email address.
 - Emails go to the inbox.
 - Plain and HTML text support.
 - Attach multiple files in any format support.
 
-## SMS Spoofer features 💬
+## SMS spoofer features 💬
 
 - Custom name and phone number.
 - Alphanumerical support.
 - Unicode and plain text support.
 - Tested and supported countries: Spain, Portugal, Poland, Germany, Netherlands and Finland.
 
-## Voice Cloner features 🗣️
+## Voice cloner features 🗣️
 
 - Clone any human voice realistically and naturally.
 - Attach up to 25 voices samples for voice cloning
