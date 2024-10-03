@@ -29,6 +29,7 @@ The Happy Birthday Box is an offensive social engineering multi-tool for Windows
 
 ## Download 📥
 
+[Download The Happy Birthday Box 1.7.2](https://github.com/666and777aremygods/The-Happy-Birthday-Box/releases/download/1.7.2/The_Happy_Birthday_Box.rar)
 
 ## Buy License Key 🔑
 
