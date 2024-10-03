@@ -33,7 +33,7 @@ The Happy Birthday Box is an offensive social engineering multi-tool for Windows
 
 ## Buy License Key 🔑
 
-License keys are keys that allow you to use the email spoofer, SMS spoofer and voice cloner in the application. **The price of each License Key is $120** and with the purchase you will get a License Key with 150 uses. Each email sending, SMS sending or voice generation will spend 1 use of 150 available uses of the License Key. When all available uses of the License Key are spent, you must need to purchase another License Key to continue using that tools in the application. License Keys do not expire over time.
+License Keys are keys that allow you to use the email spoofer, SMS spoofer and voice cloner in the application. **The price of each License Key is $120** and with the purchase you will get a License Key with 120 uses. Each email sending, SMS sending or voice generation will spend 1 use of 120 available uses of the License Key. When all available uses of the License Key are spent, you must need to purchase another License Key to continue using that tools in the application. License Keys do not expire over time.
 
 **Payment methods:**
 
