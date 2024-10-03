@@ -33,7 +33,7 @@ The Happy Birthday Box is an offensive social engineering multi-tool for Windows
 
 ## Buy License Key 🔑
 
-License keys are keys that allow you to use the email spoofer, SMS spoofer and voice cloner in the application. **The price of each License Key is $150** and with the purchase you will get a License Key with 150 uses. Each email sending, SMS sending or voice generation will spend 1 use of 150 available uses of the License Key. When all available uses of the License Key are spent, you must need to purchase another License Key to continue using that tools in the application. License Keys do not expire over time.
+License keys are keys that allow you to use the email spoofer, SMS spoofer and voice cloner in the application. **The price of each License Key is $120** and with the purchase you will get a License Key with 150 uses. Each email sending, SMS sending or voice generation will spend 1 use of 150 available uses of the License Key. When all available uses of the License Key are spent, you must need to purchase another License Key to continue using that tools in the application. License Keys do not expire over time.
 
 **Payment methods:**
 
@@ -45,7 +45,7 @@ License keys are keys that allow you to use the email spoofer, SMS spoofer and v
 
 ## Buy source code ![Python_Windows_source_code_icon_2016](https://github.com/user-attachments/assets/698f05ee-8bb0-4e3f-b9b2-c1fd84900a28)
 
-  The language code of the application is Python, written in less than 1000 lines and in a single file. The application uses APIs of quality services to spoof emails, spoof SMS and clone realistic and natural human voices. Also include in a separate file, the verification system written in PHP with which you can create licenses to use the application. This system can be enabled or disabled within source code application in case you want the application to be for personal or commercial use. **The source code price is $1200**.
+  The language code of the application is Python, written in less than 1200 lines and in a single file. The application uses APIs of quality services to spoof emails, spoof SMS and clone voices using an AI model. Also include in a separate file, the verification system written in PHP with which you can create licenses to use the application. This system can be enabled or disabled within source code application in case you want the application to be for personal or commercial use. **The source code price is $900**. The purchase of course includes support for any type of help related to the configuration of the application and other issues.
 
 **Payment methods:**
 
