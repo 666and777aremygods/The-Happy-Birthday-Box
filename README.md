@@ -1,5 +1,5 @@
 # The Happy Birthday Box 🎁
-.
+
 The Happy Birthday Box is an offensive social engineering multi-tool for Windows that combines an email spoofer, a SMS spoofer and a voice cloner in a single application.
 
 ![h (1)](https://github.com/user-attachments/assets/5a685775-2763-4187-887c-c35f154f7c6f)
