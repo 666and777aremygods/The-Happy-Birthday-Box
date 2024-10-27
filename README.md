@@ -16,7 +16,7 @@ The Happy Birthday Box is an offensive social engineering multi-tool for Windows
 - Custom name and phone number.
 - Alphanumerical support.
 - Unicode and plain text support.
-  - Tested and supported countries: Germany, Portugal, Spain, Poland, Finland and Netherlands.
+- Tested and supported countries: Germany, Portugal, Spain, Poland, Finland and Netherlands.
 
 ## Voice cloner features 🗣️
 
