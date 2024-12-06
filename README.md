@@ -45,7 +45,7 @@ License Keys are keys that allow you to use the email spoofer, SMS spoofer and v
 
 ## Buy Source Code ![Python_Windows_source_code_icon_2016](https://github.com/user-attachments/assets/47a1a4ca-348d-44ad-915c-07e634621506)
 
-The language code of the application is Python combined with PHP. The application works with its own API running on a private server (it does not use services like Twilio, Brevo... Since you get banned and they track your activity) to spoof emails, spoof SMS and clone voices using an AI model. Also include, a verification system with which you can create licenses to use the application in case you want the application to be for personal or commercial use. **The source code price is $300**. *The purchase includes support for any type of help related to the configuration of the application and other issues*.
+The language code of the application is Python combined with PHP. The application works with its own API running on a private server (it does not use services like Twilio, Brevo... Since you get banned and they track your activity) to spoof emails, spoof SMS and clone voices using an AI model. Also include, a verification system with which you can create licenses to use the application in case you want the application to be for personal or commercial use. **The source code price is $500**. *The purchase includes support for any type of help related to the configuration of the application and other issues*.
 
 **Payment methods:**
 
