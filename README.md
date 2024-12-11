@@ -31,11 +31,11 @@ The Happy Birthday Box is an offensive social engineering multi-tool for Windows
 
 [Download The Happy Birthday Box 1.7.4](https://github.com/666and777aremygods/The-Happy-Birthday-Box/releases/download/1.7.4/The_Happy_Birthday_Box.rar)
 
-## Buy License Key 🔑
+## Buy License Key for email spoofer 🔑📧
 
-License Keys are keys that allow you to use the email spoofer, SMS spoofer and voice cloner in the application. **The price of each License Key is $70** and with the purchase you will get a License Key with 5000 credits. Each email sending, SMS sending or voice generation will spend 1 credit of 5000 available credits of the License Key. When all available credits of the License Key are spent, you must need to purchase another License Key to continue using that tools in the application. License Keys do not expire over time.
+The price of the License Key to use the email spoofer is **$70**. With the purchase of this License Key you will be able to **send unlimited emails for 1 year without daily limits**. This License Key expires 366 days after receiving it.
 
-**Payment methods:**
+**👛 Accepted payment methods:**
 
 - Bitcoin
 - Litecoin
@@ -43,17 +43,20 @@ License Keys are keys that allow you to use the email spoofer, SMS spoofer and v
 
 **Contact**: https://t.me/thehappybirthdaybox
 
-## Buy Source Code ![Python_Windows_source_code_icon_2016](https://github.com/user-attachments/assets/47a1a4ca-348d-44ad-915c-07e634621506)
+## Buy License Key for SMS spoofer 🔑💬
 
-The language code of the application is Python combined with PHP. The application works with its own API running on a private server (it does not use services like Twilio, Brevo... Since you get banned and they track your activity) to spoof emails, spoof SMS and clone voices using an AI model. Also include, a verification system with which you can create licenses to use the application in case you want the application to be for personal or commercial use. **The source code price is $500**. *The purchase includes support for any type of help related to the configuration of the application and other issues*.
+The price of the License Key to use the SMS spoofer is **$80**. With the purchase of this License Key you will be able to **send 50,000 SMS without daily limits**. This License Key never expires, it is only used up when all available sends are used up.
 
-**Payment methods:**
+**👛 Accepted payment methods:**
 
 - Bitcoin
 - Litecoin
 - Ethereum
 
-**Contact:** https://t.me/thehappybirthdaybox
+**Contact**: https://t.me/thehappybirthdaybox
+
+## Buy source code 🔐📧�
+
 
 # DISCLAIMER 📜
 
